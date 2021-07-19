@@ -1,8 +1,8 @@
 package main;
 
-import clases.Electrodomestico;
-import clases.Lavadora;
-import clases.Television;
+import clasesElectordomestico.Electrodomestico;
+import clasesElectordomestico.Lavadora;
+import clasesElectordomestico.Television;
 
 public class ElectrodomesticoApp {
 

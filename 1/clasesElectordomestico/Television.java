@@ -1,4 +1,4 @@
-package clases;
+package clasesElectordomestico;
 
 public class Television extends Electrodomestico{
 	

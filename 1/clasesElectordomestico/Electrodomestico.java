@@ -1,4 +1,4 @@
-package clases;
+package clasesElectordomestico;
 
 import java.util.Arrays;
 import java.util.List;

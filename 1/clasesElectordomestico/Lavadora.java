@@ -1,4 +1,4 @@
-package clases;
+package clasesElectordomestico;
 
 public class Lavadora extends Electrodomestico {
 	
