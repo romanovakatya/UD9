@@ -78,7 +78,7 @@ public class Libro implements Comparable<Libro> {
 		} else if (this.getNumPage() > otro.getNumPage()) {
 			return 1;
 		} else {
-			return 2;
+			return -1;
 		}
 	}
 
